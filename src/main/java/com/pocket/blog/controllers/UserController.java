@@ -1,5 +1,5 @@
-package com.pocket.blog.controllers;
 
+package com.pocket.blog.controllers;
 import java.util.List;
 
 import javax.validation.Valid;
